@@ -1,2 +1,2 @@
 # Contact-form
-# Simple responsive Contact Form micro component
+Simple responsive Contact Form micro component
